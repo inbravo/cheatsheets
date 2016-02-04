@@ -124,3 +124,8 @@ sudo jstack -F $PID > threads.log
 ```bash
 scp -P 2222 ../../neusns/neusns-build.zip vagrant@127.0.0.
 ```
+### To change to root type on EC2 and to change root password
+
+```bash
+sudo -s  and then  sudo passwd
+```
