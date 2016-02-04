@@ -119,3 +119,8 @@ some_command > everything.txt 2>&1
 ```bash
 sudo jstack -F $PID > threads.log
 ```
+### Copy data to vagrant vm
+
+```bash
+scp -P 2222 ../../neusns/neusns-build.zip vagrant@127.0.0.
+```
