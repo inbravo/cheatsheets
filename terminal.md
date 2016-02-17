@@ -129,3 +129,8 @@ scp -P 2222 ../../neusns/neusns-build.zip vagrant@127.0.0.
 ```bash
 sudo -s  and then  sudo passwd
 ```
+### To get processor architecture type (i386/i686 etc are32 bit)
+
+```bash
+uname -a and cat /proc/cpuinfo 
+```
