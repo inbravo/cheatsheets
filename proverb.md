@@ -48,6 +48,7 @@ Observe, orient, decide, Act
 
 ```bash
 Scrum is founded on empirical process control theory, or empiricism. 
+```
 
 ```bash
 Empiricism asserts that knowledge comes from experience and making decisions based on what is known
