@@ -1,7 +1,5 @@
 # Great Proverbs and Quotes
 
-### Replace blank line in VIM
-
 ```bash
 Time and Tide wait for No man
 ```
