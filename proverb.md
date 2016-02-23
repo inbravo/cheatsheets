@@ -127,3 +127,7 @@ In general, I didn't like the author's tone. It's often bitter and condescending
 ```bash
 Gratitude is the best attitude
 ```
+
+```bash
+It is easier to obtain Forgiveness than Permission
+```
