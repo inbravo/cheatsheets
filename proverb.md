@@ -131,3 +131,7 @@ Gratitude is the best attitude
 ```bash
 It is easier to obtain Forgiveness than Permission
 ```
+
+```bash
+Egalitarian : social equality
+```
