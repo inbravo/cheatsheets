@@ -5,3 +5,5 @@
 ### [Proverbs and Words](https://github.com/inbravo/cheatsheets/blob/master/proverb.md)
 
 ### [Poems](https://github.com/inbravo/cheatsheets/blob/master/poems.md)
+
+### [Public cheat-sheets](http://www.cheat-sheets.org)
