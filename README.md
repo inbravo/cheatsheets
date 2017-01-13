@@ -1,8 +1,10 @@
 # Useful references
 
-### [Terminal commands](https://github.com/inbravo/cheatsheets/blob/master/terminal.md)
+### [Terminal Commands](https://github.com/inbravo/cheatsheets/blob/master/terminal.md)
 
-### [Proverbs and Words](https://github.com/inbravo/cheatsheets/blob/master/proverb.md)
+### [Proverbs](https://github.com/inbravo/cheatsheets/blob/master/proverb.md)
+
+### [Words](https://github.com/inbravo/cheatsheets/blob/master/words.md)
 
 ### [Poems](https://github.com/inbravo/cheatsheets/blob/master/poems.md)
 
