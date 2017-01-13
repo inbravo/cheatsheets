@@ -1,7 +1,7 @@
 # Beautifull poems
 
 ```
-Don’t Quit – by John Greenleaf Whittier   Leave a comment
+Don’t Quit – by John Greenleaf Whittier
 
 When things go wrong as they sometimes will 
 When the road you’re trudging seems all up hill 
