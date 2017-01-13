@@ -1,6 +1,6 @@
 # Beautifull poems
 
-```bash
+```
 Don’t Quit – by John Greenleaf Whittier   Leave a comment
 
 When things go wrong as they sometimes will 
