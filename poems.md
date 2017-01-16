@@ -1,8 +1,6 @@
 # Beautifull poems
 
 ```
-Don’t Quit – by John Greenleaf Whittier
-
 When things go wrong as they sometimes will 
 When the road you’re trudging seems all up hill 
 When the funds are low and the debts are high 
@@ -26,4 +24,6 @@ It’s when things seem worst that you must not quit.
 
 For all the sad words of tongue or pen 
 The saddest are these: “It might have been!”
+
+            (Don’t Quit – by John Greenleaf Whittier)
 ```
