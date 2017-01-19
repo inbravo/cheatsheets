@@ -73,7 +73,7 @@ A drab day
 ```
 
 ```
-Forewarned is forearmed
+Forewarned is forearmed from latin saying... Praemonitus Praemunitus
 ```
 
 ```
